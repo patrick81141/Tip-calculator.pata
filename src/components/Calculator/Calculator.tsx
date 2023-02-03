@@ -8,7 +8,6 @@ import logo from "../../assets/images/logo.svg";
 import Label from "./Label";
 import ResetButton from "./ResetButton";
 import { BillName, Bill, PerPerson } from "./Bill";
-import { Interface } from "readline";
 import Tip from "../Tip";
 
 
